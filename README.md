@@ -23,12 +23,13 @@ Veri:
 Kural Tabanları:
 
 
-![1](9.PNG)
+![1](11.PNG)
+
 
 Kullanıcı Ekranı:
 
 
-![1](11.PNG)
+![1](9.PNG)
 
 
 
