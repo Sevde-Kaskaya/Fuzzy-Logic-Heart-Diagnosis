@@ -11,7 +11,6 @@ Günümüzde kalp hastalığına sahip insan sayısı her geçen gün artmaktad�
 ![1](5.PNG)
 ![1](6.PNG)
 ![1](7.PNG)
-![1](8.PNG)
 
 
 
@@ -33,4 +32,7 @@ Kullanıcı Ekranı:
 
 
 
+Çıktı:
 
+
+![1](8.PNG)
